@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="451.91199mm"
+   height="323.18332mm"
+   viewBox="0 0 451.91199 323.18332"
+   version="1.1"
+   preserveAspectRatio="xMidYMid meet"
+   id="svg9">
+  <title
+     id="title845">LED Diffusers</title>
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>LED Diffusers</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs13" />
+  <path
+     d="m 20.185368,100.0472 9.489632,0.003 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 l 9.48962,-0.003 V 56.052825 l -9.48962,-0.0028 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 l -9.489632,0.0028 c 0.260368,43.997186 0,-0.0056 0,43.994376 z"
+     id="front_outsideCutPath"
+     stroke="#FF0000"
+     stroke-width="0.1"
+     style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round"
+     vector-effect="non-scaling-stroke" />
+  <path
+     d="m 0.05,0.05001397 v 10.37500003 9.75 9.75 9.75 10.375 h 20.135368 v -3 H 29.675 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.48962 v 3 H 253.925 264.05 v -10.375 -9.75 -9.75 -9.75 -10.37500003 l -20.13538,0.0056267 V 3.0556407 L 234.425,3.050014 V 0.05001397 h -9.75 V 3.050014 h -9.75 V 0.05001397 h -9.75 V 3.050014 h -9.75 V 0.05001397 h -9.75 V 3.050014 h -9.75 V 0.05001397 h -9.75 V 3.050014 h -9.75 V 0.05001397 h -9.75 V 3.050014 h -9.75 V 0.05001397 h -9.75 V 3.050014 h -9.75 V 0.05001397 h -9.75 V 3.050014 h -9.75 V 0.05001397 h -9.75 V 3.050014 h -9.75 V 0.05001397 h -9.75 V 3.050014 h -9.75 V 0.05001397 h -9.75 V 3.050014 h -9.75 V 0.05001397 h -9.75 V 3.050014 l -9.489632,0.00563 V 0.05564065 L 10.175,0.05001397 Z"
+     id="back_outsideCutPath"
+     stroke="#FF0000"
+     stroke-width="0.1"
+     style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round"
+     vector-effect="non-scaling-stroke" />
+  <path
+     d="m 18.477171,296.23407 v 3 l 9.54861,-5.7e-4 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.749999 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 l 9.54858,5.7e-4 v -3 c 0,-14.00057 0,0 0,-14.00057 v -3 h -9.54858 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.749999 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.54861 v 3 c 0,14.00057 0,0 0,14.00057 z"
+     id="bottom_outsideCutPath"
+     stroke="#FF0000"
+     stroke-width="0.1"
+     style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round"
+     vector-effect="non-scaling-stroke" />
+  <path
+     d="m 19.051341,320.13333 v 3 l 9.54861,-5.6e-4 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.749999 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 l 9.54858,5.5e-4 v -2.99999 c 0,-14.00056 0,0 0,-14.00056 v -3 h -9.54858 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.749999 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.54861 v 3 c 0,14.00056 0,0 0,14.00056 z"
+     id="bottom_outsideCutPath-2"
+     stroke="#FF0000"
+     stroke-width="0.1"
+     style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round"
+     vector-effect="non-scaling-stroke" />
+  <path
+     d="m 17.937766,267.07108 9.48963,0.003 v 3.00001 h 9.75 v -3.00001 h 9.75 v 3.00001 h 9.75 v -3.00001 h 9.75 v 3.00001 h 9.75 v -3.00001 h 9.75 v 3.00001 h 9.75 v -3.00001 h 9.750004 v 3.00001 h 9.75 v -3.00001 h 9.75 v 3.00001 h 9.75 v -3.00001 h 9.75 v 3.00001 h 9.75 v -3.00001 h 9.75 v 3.00001 h 9.75 v -3.00001 h 9.75 v 3.00001 h 9.75 v -3.00001 h 9.75 v 3.00001 h 9.75 v -3.00001 h 9.75 v 3.00001 h 9.75 v -3.00001 l 9.48962,-0.003 V 223.0769 l -9.48962,-0.003 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3.00001 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 h -9.750004 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 l -9.48963,0.003 c 0.26036,43.99719 0,-0.006 0,43.99438 z"
+     id="front_outsideCutPath-9"
+     stroke="#FF0000"
+     stroke-width="0.1"
+     style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+     vector-effect="non-scaling-stroke" />
+  <path
+     d="m 0.43219984,162.29634 v 10.375 9.75 9.75 9.75 10.375 H 20.56757 v -3 h 9.48963 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.749999 v -3 h 9.75 v 3 h 9.750004 v -3 h 9.750007 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.48962 v 3 h 10.01038 10.125 v -10.375 -9.75 -9.75 -9.75 -10.375 l -20.13538,0.006 v 3 l -9.48962,-0.006 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 h -9.750007 v -3 h -9.750004 v 3 h -9.75 v -3 H 69.0572 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 l -9.48963,0.006 v -3 l -10.01037,-0.006 z"
+     id="back_outsideCutPath-3"
+     stroke="#FF0000"
+     stroke-width="0.1"
+     style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round"
+     vector-effect="non-scaling-stroke" />
+  <path
+     d="m 17.021865,128.8609 v 3 l 9.5486,-5.5e-4 v -3.00001 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75001 v 3 h 9.75 v -3 h 9.75 v 3 h 9.750005 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75001 v 3 h 9.75 v -3 h 9.75 v 3 h 9.74998 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75001 v -3 h 9.75 v 3 l 9.54857,5.5e-4 v -2.99999 c 0,-14.00057 0,0 0,-14.00057 v -3 l -9.54857,10e-6 v 3 h -9.75 v -3 h -9.75001 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.74998 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75001 v -3 h -9.75 v 3 h -9.75 v -3 h -9.750005 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75001 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 l -9.5486,-10e-6 v 3 c 0,14.00057 0,0 0,14.00057 z"
+     id="bottom_outsideCutPath-22"
+     stroke="#FF0000"
+     stroke-width="0.1"
+     style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round"
+     vector-effect="non-scaling-stroke" />
+  <path
+     d="m 17.596035,152.76017 v 3 l 9.5486,-5.3e-4 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75001 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.750005 v -3 h 9.75 v 3 h 9.75001 v -3 h 9.75 v 3 h 9.75 v -3 h 9.74998 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75001 v 3 h 9.75 v -3 h 9.75 v 3 l 9.54857,5.3e-4 v -2.99999 c 0,-14.00057 0,0 0,-14.00057 v -3 l -9.54857,1e-5 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75001 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 h -9.74998 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75001 v 3 h -9.75 v -3 h -9.750005 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75001 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 l -9.5486,-1e-5 v 3 c 0,14.00057 0,0 0,14.00057 z"
+     id="bottom_outsideCutPath-2-5"
+     stroke="#FF0000"
+     stroke-width="0.1"
+     style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round"
+     vector-effect="non-scaling-stroke" />
+  <path
+     d="m 253.85688,108.96712 c 0,50.00462 0,0 0,50.00462 l 16.12755,-0.002 v -3 h 9.75 v 3 h 9.75 v -3 h 9.74999 v 3 h 9.75001 v -3 h 9.74999 v 3 h 9.75 v -3 h 9.75001 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 l 6.37755,0.002 v -50.00462 l -16.12755,0.002 v 3 h -9.75 v -3.00002 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75001 v -3 h -9.75 v 3 h -9.74999 v -3 h -9.75001 v 3 h -9.74999 v -3.00007 h -9.75 v 3 h -9.75 v -3 h -9.75 z"
+     id="front_outsideCutPath-1"
+     stroke="#FF0000"
+     stroke-width="0.1"
+     style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round"
+     vector-effect="non-scaling-stroke" />
+  <path
+     d="m 274.16518,4.6423029 c -0.0383,43.9921331 -0.0383,43.9921331 -0.0383,43.9921331 0,0 0.0383,-43.9921331 -0.002,3.003928 l 4.98853,0.0043 0.002,-2.999998 9.74999,0.0086 -0.002,2.999997 9.75,0.0086 0.002,-3.000007 9.74997,0.0086 -0.002,3.000008 9.75001,0.0086 0.002,-2.999998 9.74998,0.0086 -0.002,2.999997 9.75,0.0086 0.002,-2.999998 9.75001,0.0086 -0.002,2.999998 9.75001,0.0086 0.002,-2.999998 9.75,0.0086 -0.002,2.999997 9.75,0.0086 0.002,-2.999987 9.75001,0.0086 -0.002,3.000008 9.74999,0.0086 0.002,-2.999998 9.75,0.0086 -0.002,2.999998 9.74999,0.0086 0.002,-2.999997 9.74999,0.0086 -0.002,2.999998 9.74999,0.0086 0.002,-2.999998 9.74999,0.0086 -0.002,2.999997 4.98857,0.0043 c 0.002,-3.003918 0,0 0.002,-3.003918 l 0.0382,-43.992143 0.002,-3.0039185 -4.98857,-0.00428 -0.002,2.9999976 -9.74999,-0.00859 0.002,-2.9999976 -9.74999,-0.00859 -0.002,2.9999976 -9.74998,-0.00859 0.002,-2.9999976 -9.74999,-0.00859 -0.002,2.9999976 -9.74999,-0.00859 0.002,-3.0000076 -9.75,-0.00859 -0.002,3.0000076 -9.75,-0.0086 0.002,-2.9999976 -9.75001,-0.00859 -0.002,2.9999876 -9.75,-0.00859 0.002,-2.9999975 -9.75001,-0.00859 -0.002,2.9999976 -9.75001,-0.00859 0.002,-2.9999976 -9.74999,-0.00859 -0.002,2.9999976 -9.74998,-0.00859 0.002,-2.9999976 -9.75001,-0.0086 -0.002,3.0000075 -9.74997,-0.0086 0.002,-2.9999976 -9.74999,-0.00859 -0.002,2.9999976 -9.74999,-0.00859 0.002,-2.9999976 -4.98853,-0.00428 z"
+     id="back_outsideCutPath-6"
+     stroke="#FF0000"
+     stroke-width="0.1"
+     style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round"
+     vector-effect="non-scaling-stroke" />
+  <path
+     d="m 253.32222,57.962549 v 17 h 16.125 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75001 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75001 v -3 h 9.75 v 3 h 9.74997 v -3 h 9.75001 v 3 h 9.75 v -3 h 9.75 6.375 v -17 h -11.13644 v 3 h -4.98856 v -3 h -9.75 v 3 h -9.75001 v -3 h -9.74997 v 3 h -9.75 v -3 h -9.75001 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75001 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 h -4.98857 v -3 z"
+     id="bottom_outsideCutPath-4"
+     stroke="#FF0000"
+     stroke-width="0.1"
+     style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round"
+     vector-effect="non-scaling-stroke" />
+  <path
+     d="m 253.23455,80.657719 v 17 h 16.125 v 2.999991 h 9.75 v -2.999991 h 9.75001 v 2.999991 h 9.75 v -2.999991 h 9.75 v 2.999991 h 9.75001 v -2.999991 h 9.75 v 2.999991 h 9.74997 v -2.999991 h 9.75 v 2.999991 h 9.75001 v -2.999991 h 9.75 v 2.999991 h 9.75 v -2.999991 h 9.75 v 2.999991 h 9.75 v -2.999991 h 9.75001 v 2.999991 h 9.75 v -2.999991 h 9.75 v 2.999991 h 9.75 v -2.999991 h 9.75 6.37501 v -17 h -11.13645 v 2.99999 h -4.98856 v -2.99999 h -9.75 v 2.99999 h -9.75 v -2.99999 h -9.75 v 2.99999 h -9.75001 v -2.99999 h -9.75 v 2.99999 h -9.75 v -2.99999 h -9.75 v 2.99999 h -9.75 v -2.99999 h -9.75001 v 2.99999 h -9.75 v -2.99999 h -9.74997 v 2.99999 h -9.75 v -2.99999 h -9.75001 v 2.99999 h -9.75 v -2.99999 h -9.75 v 2.99999 h -9.75001 v -2.99999 h -9.75 v 2.99999 h -4.98857 v -2.99999 z"
+     id="bottom_outsideCutPath-9"
+     stroke="#FF0000"
+     stroke-width="0.1"
+     style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round"
+     vector-effect="non-scaling-stroke" />
+  <path
+     d="m 252.04464,272.37843 c 0,50.00462 0,0 0,50.00462 l 16.12755,-0.002 v -2.99989 h 9.75 v 3 h 9.75 v -3 h 9.74999 v 3 h 9.75001 v -3 h 9.74999 v 3 h 9.75 v -3 h 9.75001 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 l 6.37755,0.002 v -50.00474 l -16.12755,0.002 v 3 h -9.75 v -3.00002 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75001 v -3 h -9.75 v 3 h -9.74999 v -3 h -9.75001 v 3 h -9.74999 v -3.00019 h -9.75 v 3 h -9.75 v -3 h -9.75 z"
+     id="front_outsideCutPath-1-5"
+     stroke="#FF0000"
+     stroke-width="0.1"
+     style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round"
+     vector-effect="non-scaling-stroke" />
+  <path
+     d="m 272.35294,168.05361 c -0.0383,43.99214 -0.0383,43.99214 -0.0383,43.99214 0,0 0.0383,-43.99214 -0.002,3.00392 l 4.98853,0.004 0.002,-3 9.74999,0.009 -0.002,3 9.75,0.009 0.002,-3 9.74997,0.009 -0.002,3.00001 9.75001,0.009 0.002,-3 9.74998,0.009 -0.002,3 9.75,0.009 0.002,-3 9.75001,0.009 -0.002,3 9.75001,0.009 0.002,-3 9.75,0.009 -0.002,3 9.75,0.009 0.002,-2.99999 9.75001,0.009 -0.002,3.00001 9.74999,0.009 0.002,-3 9.75,0.009 -0.002,3 9.74999,0.009 0.002,-3 9.74999,0.009 -0.002,3 9.74999,0.009 0.002,-3 9.74999,0.009 -0.002,3 4.98857,0.004 c 0.002,-3.00392 0,0 0.002,-3.00392 l 0.0382,-43.99214 0.002,-3.00392 -4.98857,-0.004 -0.002,3 -9.74999,-0.009 0.002,-3 -9.74999,-0.009 -0.002,3 -9.74998,-0.009 0.002,-3 -9.74999,-0.009 -0.002,3 -9.74999,-0.009 0.002,-3.00001 -9.75,-0.009 -0.002,3.00001 -9.75,-0.009 0.002,-3 -9.75001,-0.009 -0.002,2.99999 -9.75,-0.009 0.002,-3 -9.75001,-0.009 -0.002,3 -9.75001,-0.009 0.002,-3 -9.74999,-0.009 -0.002,3 -9.74998,-0.009 0.002,-3 -9.75001,-0.009 -0.002,3.00001 -9.74997,-0.009 0.002,-3 -9.74999,-0.009 -0.002,3 -9.74999,-0.009 0.002,-3 -4.98853,-0.004 z"
+     id="back_outsideCutPath-6-1"
+     stroke="#FF0000"
+     stroke-width="0.1"
+     style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round"
+     vector-effect="non-scaling-stroke" />
+  <path
+     d="m 251.50998,221.37386 v 17 h 16.125 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75001 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75001 v -3 h 9.75 v 3 h 9.74997 v -3 h 9.75001 v 3 h 9.75 v -3 h 9.75 6.375 v -17 h -11.13644 v 3 h -4.98856 v -3 h -9.75 v 3 h -9.75001 v -3 H 404.135 v 3 h -9.75 v -3 h -9.75001 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75001 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 h -9.75 v -3 h -9.75 v 3 h -4.98857 v -3 z"
+     id="bottom_outsideCutPath-4-2"
+     stroke="#FF0000"
+     stroke-width="0.1"
+     style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round"
+     vector-effect="non-scaling-stroke" />
+  <path
+     d="m 262.55874,261.06903 h 4.98857 v 3 h 9.75 v -3 h 9.75001 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75001 v -3 h 9.75 v 3 h 9.74997 v -3 h 9.75 v 3 h 9.75001 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75001 v 3 h 9.75 v -3 h 9.75 v 3 h 9.75 v -3 h 9.75 6.37501 v -17 h -11.13645 v 2.99999 h -4.98856 v -2.99999 h -9.75 v 2.99999 h -9.75 v -2.99999 h -9.75 v 2.99999 h -9.75001 v -2.99999 h -9.75 v 2.99999 h -9.75 v -2.99999 h -9.75 v 2.99999 h -9.75 v -2.99999 h -9.75001 v 2.99999 h -9.75 v -2.99999 h -9.74997 v 2.99999 h -9.75 v -2.99999 h -9.75001 v 2.99999 h -9.75 v -2.99999 h -9.75 v 2.99999 h -9.75001 v -2.99999 h -9.75 v 2.99999 h -4.98857 c 0,14.00001 0,0 0,14.00001 z"
+     id="bottom_outsideCutPath-9-9"
+     stroke="#FF0000"
+     stroke-width="0.1"
+     style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round"
+     vector-effect="non-scaling-stroke" />
+</svg>
