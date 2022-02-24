@@ -3,8 +3,8 @@ This repo contains design files and further instructions for assembling 3D print
 
 ## License
 Files ending in "_iGEM" are copyright iGEM Marburg 2019.<br/>
-Other files are copyright BioArtBot Working Group 2020.<br/>
-These STL and instrcution PDF files describing our hardware are licensed under the
+Other files are copyright BioArtBot Working Group 2020-2022.<br/>
+These STL and instruction PDF files describing our hardware are licensed under the
 CERN OHL v. 1.2.<br/>
 You may redistribute and modify these STL and instrcution PDF files under the terms of the
 CERN OHL v.1.2. (http://ohwr.org/cernohl). These files are distributed
