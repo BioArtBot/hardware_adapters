@@ -1,6 +1,8 @@
 # Petri Plate Lightbox
 These SVG files are designs for laser-cutting a photo box that is well-sized for photographing petri plates. The goal is to provide even lighting within minimal glare from the agar.
 
+![Image of Box](./reference_photos/assembled_box_no_lid.jpg)
+
 The diffusers are sized such that you can fit multiple LED strips into them, in case you would like to include both white light and UV light to capture fluorescence.
 
 The box fits SBS rectangular plates (127mm X 85mm), but can also fit 90mm and smaller round petri plates.
